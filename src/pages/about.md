@@ -1,9 +1,9 @@
-Welcome to this blog template by [cassidoo](https://cassidoo.co)!
+Welcome to this blog by [Nabin](https://portfolio-v3-six-iota.vercel.app/)!
 
-It's using Astro and TinaCMS. You can [clone it on GitHub](https://github.com/cassidoo/blahg) to use it for yourself, and see how it works! I would _love_ if you told me when you do use it, I love seeing variations on it!
+Web Developer by day, data magician by night. I translate complex ideas into stunning, user-friendly web applications using Next.js, React, and Tailwind. When not building interfaces, I'm exploring the world of Go, Python and machine learning, extracting insights and adding a touch of intelligence to my projects. Fluent in Git, collaborating and version controlling like a pro. Let's code some magic together!
 
-The tags at the bottom of the page are dynamically generated. The more tags you use, the more tags are added to the list! Posts are simple markdown files.
+I like to share my random discoveries and thoughts here.
 
-You should also check out [my newsletter](https://cassidoo.co/newsletter), or my word game [Jumblie](https://jumblie.com/?utm_campaign=blahgtmp&utm_source=github), or my [GitHub profile](https://github.com/cassidoo). Or don't. Follow your dreams.
+You should also check out my [GitHub profile](https://github.com/nabinkatwal7). Or don't. Follow your dreams.
 
 Enjoy!
